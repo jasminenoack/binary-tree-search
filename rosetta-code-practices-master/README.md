@@ -1,2 +1,0 @@
-rosetta-code-practices
-======================
